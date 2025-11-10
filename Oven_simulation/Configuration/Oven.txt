@@ -1,0 +1,3 @@
+Heater1 = 1500
+Heater2 = 2000
+Fan = 2000
